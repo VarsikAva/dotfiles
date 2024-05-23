@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = varsenik.ava@gmail.com
+	name = Varsik Orchanian
